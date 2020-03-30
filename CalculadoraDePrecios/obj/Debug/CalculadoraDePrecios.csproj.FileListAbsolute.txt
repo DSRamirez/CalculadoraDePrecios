@@ -1,0 +1,10 @@
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\bin\Debug\CalculadoraDePrecios.exe.config
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\bin\Debug\CalculadoraDePrecios.exe
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\bin\Debug\CalculadoraDePrecios.pdb
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\obj\Debug\CalculadoraDePrecios.Properties.Resources.resources
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\obj\Debug\CalculadoraDePrecios.csproj.GenerateResource.cache
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\obj\Debug\CalculadoraDePrecios.csproj.CoreCompileInputs.cache
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\obj\Debug\CalculadoraDePrecios.exe
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\obj\Debug\CalculadoraDePrecios.pdb
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\obj\Debug\CalculadoraDePrecios.csprojAssemblyReference.cache
+C:\Users\Daiana\source\repos\CalculadoraDePrecios\CalculadoraDePrecios\obj\Debug\CalculadoraDePrecios.btSalir.resources
